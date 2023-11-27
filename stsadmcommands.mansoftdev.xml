@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<commands>
+  <command name="copyweb" 
+           class="MANSoftdev.SharePoint.StsadmEx.CopySite, 
+           MANSoftdev.SharePoint.StsadmEx, 
+           Version=1.0.0.0, 
+           Culture=neutral, 
+           PublicKeyToken=84dc0acc538808e3"></command>
+  <command name="moveweb" class="MANSoftdev.SharePoint.StsadmEx.CopySite, MANSoftdev.SharePoint.StsadmEx, Version=1.0.0.0, Culture=neutral, PublicKeyToken=84dc0acc538808e3"></command>
+</commands>
